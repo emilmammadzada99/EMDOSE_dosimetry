@@ -27,6 +27,12 @@ The application supports the following radionuclides:
 - Optional PDF export via FPDF
 
 ---
+## 🖼️ Screenshot
 
+Here is a screenshot of the EMDOSE application interface:
+
+![Main UI-1](images/Capture-1.PNG)
+![Main UI-2](images/Capture-2.PNG)
+![Main UI-3](images/Capture-3.PNG)
 ### 📜 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
