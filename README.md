@@ -27,6 +27,13 @@ The application supports the following radionuclides:
 - Optional PDF export via FPDF
 
 ---
+## ⚠️ Important Notice for Running the EXE
+
+Make sure to place the executable file (`EMDOSE.exe`) **in the same folder** as all the required JSON data files (e.g., `am_i131svalue_alpha.json`, `af_i131svalue_alpha.json`, etc.).
+
+If the JSON files are not in the same directory as the EXE, the application **will not be able to find the necessary data** and will fail to run properly.
+
+**Always keep the EXE and JSON files together in one folder!**
 ## Requirements
 
 This application requires the following to be installed on your system:
