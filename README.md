@@ -51,6 +51,7 @@ This application requires the following to be installed on your system:
 ```bash
 pip install fpdf
 pyinstaller --onefile --noconsole --name EMDOSE --icon=emdose.ico emdose.py
+```
 ## 🖼️ Screenshot
 
 Here is a screenshot of the EMDOSE application interface:
