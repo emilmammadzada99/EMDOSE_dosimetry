@@ -68,3 +68,11 @@ Here is a screenshot of the EMDOSE application interface:
 ![Main UI-3](images/Capture-3.PNG)
 ### 📜 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+## References
+
+Olguin, E., President, B., Ghaly, M., Frey, E., Sgouros, G., & Bolch, W. E. (2020).  
+*Specific absorbed fractions and radionuclide S-values for tumors of varying size and composition.*  
+Physics in Medicine & Biology, 65(23), 235027.  
+https://doi.org/10.1088/1361-6560/abbc7e
+MIRDsoft
+https://mirdsoft.org/
