@@ -27,6 +27,30 @@ The application supports the following radionuclides:
 - Optional PDF export via FPDF
 
 ---
+## Requirements
+
+This application requires the following to be installed on your system:
+
+### Python
+
+- Python **3.8** or higher  
+  [https://www.python.org/downloads/](https://www.python.org/downloads/)
+
+### Python Libraries
+- Python 3.8 or higher
+
+- Standard Python libraries used (no extra install needed):
+  - tkinter (usually comes with Python)
+  - json
+  - numpy
+  - pandas
+  - pyinstaller
+- External libraries (install via pip):
+  - fpdf (for PDF export)
+  
+```bash
+pip install fpdf
+pyinstaller --onefile --noconsole --name EMDOSE --icon=emdose.ico emdose.py
 ## 🖼️ Screenshot
 
 Here is a screenshot of the EMDOSE application interface:
