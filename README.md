@@ -76,3 +76,16 @@ Physics in Medicine & Biology, 65(23), 235027.
 https://doi.org/10.1088/1361-6560/abbc7e
 MIRDsoft
 https://mirdsoft.org/
+## 📦 EMDOSE v1.0.1 – Initial Release
+
+This is the initial release of **EMDOSE**: a dosimetry tool developed to calculate specific absorbed fractions and S-values for various organs and radionuclides.
+
+- **Version:** v1.0.1  
+- **Author:** [emilmammadzada99](https://github.com/emilmammadzada99)  
+- **DOI:** [10.5281/zenodo.16022107](https://doi.org/10.5281/zenodo.16022107)
+
+📄 Zenodo Archive: [EMDOSE v1.0.1 on Zenodo](https://doi.org/10.5281/zenodo.16022107)
+
+---
+
+> 🔬 *This version includes the core implementation of EMDOSE with support for calculating absorbed doses in multiple organs based on ICRP adult male phantom geometry.*
